@@ -1,0 +1,20 @@
+Name of customer is : Rohan Kamble
+Age of customer is : 25
+Contact of customer is :1235697845
+Address of customer is : Chembur
+Amount For First Deposite : 5000
+email of customer is : rohan@gmail.com
+Password is : 123456
+Account Number is : 41091276924
+
+The account for RohanKamble has been created with depositing amount of : 5000    11:06:22  05:23:56
+The Amount deposited : 1000                11:06:22  05:26:06
+Balance : 6000                           11:06:22  05:26:06
+The Amount Withdraw : 1000                 11:06:22  05:26:29
+Balance : 5000                           11:06:22  05:26:29
+The Amount deposited : 500                16:09:22  02:31:29
+Balance : 5500                           16:09:22  02:31:29
+The Amount deposited : 1                16:09:22  02:31:34
+Balance : 5501                           16:09:22  02:31:34
+The Amount Withdraw : 500                 16:09:22  02:32:02
+Balance : 5001                           16:09:22  02:32:02

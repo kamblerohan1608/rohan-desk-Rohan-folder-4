@@ -1,0 +1,11 @@
+Screen 1 : K.G.F : [ ]:[ ] : Timings - 09:30 AM, 03:00 PM :*250,*250:
+Screen 2 : Dr.Strange Multiverse And Madness :[A-1,A-2]:[ ] : Timings - 12:30 PM, 04:00 PM :*250,*250:
+Screen 3 : Uncharted :[A-1,A-2]:[ ] : Timings - 02:00 PM, 08:00 PM :*250,*250:
+
+Parking Slots :
+Bike :['T-1', 'T-2']: 
+Car :['F-1', 'F-2']: 
+
+Food Court : 
+Snacks : Pop Corn 50, Fries 100, KFC Hot Wings 250, Sandwich 60, Pizza 150, Burger 130:
+Beverages : Appy 40, Coke 40, Fanta 40, Sprite 40, Thumbs up 40, Water 30:

@@ -1,0 +1,32 @@
+
+TICKET ID : 662718
+Movie name :  Uncharted 
+Timing : 02:00 PM
+Seats Booked : 2(A-1,A-2)
+SCREEN : 3
+
+Booked Bike Parking Slot : ['T-1']
+
+Booked Car Parking Slot : ['F-1']
+
+FOOD COURT : 
+
+1      Pop Corn         Rs.50 X 2     100
+2      Fries            Rs.100 X 2    200
+
+                        Total    :    300
+
+***
+
+
+TICKET ID : 118292
+Movie name :  Dr.Strange Multiverse And Madness 
+Timing : 12:30 PM
+Seats Booked : 2(A-1,A-2)
+SCREEN : 2
+
+Booked Bike Parking Slot : ['T-2']
+
+Booked Car Parking Slot : ['F-2']
+
+***

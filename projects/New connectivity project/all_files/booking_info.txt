@@ -1,0 +1,78 @@
+
+TICKET ID : 133160
+Movie name :  Dr.Strange Multiverse And Madness 
+Timing : 12:30 PM
+Seats Booked : 2(D-4,D-5)
+SCREEN : 2
+
+Booked Bike Parking Slot : ['T-1']
+
+Booked Car Parking Slot : ['F-1']
+
+FOOD COURT : 
+
+1      Pop Corn         Rs.50 X 2     100
+2      Fries            Rs.100 X 2    200
+3      Pizza            Rs.150 X 1    150
+4      Coke             Rs.40 X 2      80
+5      Water            Rs.30 X 1      30
+
+                        Total    :    560
+
+***
+
+
+TICKET ID : 858848
+Movie name :  Dr.Strange Multiverse And Madness 
+Timing : 04:00 PM
+Seats Booked : 3(E-4,D-5,C-6)
+SCREEN : 2
+
+Booked Car Parking Slot : ['T-2']
+
+Booked Car Parking Slot : ['F-2']
+
+FOOD COURT : 
+
+1      KFC Hot Wings    Rs.250 X 2    500
+2      Burger           Rs.130 X 2    260
+3      Pizza            Rs.150 X 2    300
+4      Coke             Rs.40 X 2      80
+5      Sprite           Rs.40 X 1      40
+
+                        Total    :    1180
+
+***
+
+
+TICKET ID : 866706
+Movie name :  K.G.F 
+Timing : 03:30 PM
+Seats Booked : 2(E-6,E-7)
+SCREEN : 1
+
+Booked Car Parking Slot : ['T-3']
+
+Booked Car Parking Slot : ['F-3']
+
+***
+
+TICKET ID : 773801
+Movie name :  K.G.F 
+Timing : 09:00 AM
+Seats Booked : 2(H-5,H-6)
+SCREEN : 1
+
+Booked Bike Parking Slot : ['T-4']
+
+Booked Car Parking Slot : ['F-4']
+
+FOOD COURT : 
+
+1      Fries            Rs.100 X 1    100
+2      KFC Hot Wings    Rs.250 X 1    250
+
+                        Total    :    350
+
+***
+
